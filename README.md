@@ -1,6 +1,3 @@
-Sure, Lungile! Here's a complete README.md file that documents all three of your C projects in a professional, structured, and collaborative-friendly way — ready to be pushed to GitHub or shared with peers:
-
-`markdown
 
 💡 Systems Programming Projects Collection
 
@@ -90,30 +87,19 @@ Student 1: themba@example.com
 Use GCC for all projects:
 
 `bash
-gcc salary_calculator.c -o salary
-./salary
+gcc netsalarycalculator.c -o salary
+./netsalarycalculator
 
 gcc sort_names.c -o sort
 ./sort
 
-gcc email_manager.c -o emails
-./emails
+gcc memorymanagement.c -o emails
+./memorymanagement
 `
 
----
-
-🙌 Author
-
-Lungile Mabelebele  
-Software Engineering Student | Digital Literacy Advocate | Tech for Industrial Innovation  
-Passionate about systems programming, scalable app development with Flutter, and backend integration.
-
----
 
 📌 License
 
 This project is licensed under the MIT License. Feel free to modify, share, or contribute — the more we build together, the better!
 
 `
-
-Would you like me to split this into separate project folders and stub in .c files for each, or tailor the README even more for public GitHub sharing with tags and contribution instructions?
